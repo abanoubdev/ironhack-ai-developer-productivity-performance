@@ -13,4 +13,6 @@ def get_ai_developer_dataset():
         "AI_Developer_Performance_Extended_1000.csv")
 
     df_clean = df.drop_duplicates()
+    df_clean = df_clean.drop_duplicates()
+    df_clean = df_clean.dropna()
     return df_clean

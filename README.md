@@ -50,6 +50,9 @@ Advanced metrics were created to capture workflow efficiency beyond raw activity
 * **Developer Well-being:** Factors like **Sleep** and **Stress Levels** are measurable predictors of delivery speed; integrating these into capacity planning can improve sprint reliability.
 * **Predictive Drivers:** While `Hours_Coding` remains the primary driver, `AI_Usage` and `Cognitive_Load` emerged as critical secondary signals for accuracy.
 
+## Presentation
+https://canva.link/o1b2elhob1sj9ev
+
 ## 📂 Repository Structure
 ```text
 ├── clean_data_notebook.ipynb  # Main analysis, feature engineering, and modeling
